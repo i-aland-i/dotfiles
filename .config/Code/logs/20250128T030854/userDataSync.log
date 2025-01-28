@@ -1,0 +1,133 @@
+2025-01-28 03:08:55.843 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2025-01-28 03:08:55.843 [info] Auto Sync is disabled.
+2025-01-28 03:34:38.771 [info] Sync started.
+2025-01-28 03:34:40.031 [info] Did reset the local sync state.
+2025-01-28 03:34:40.035 [info] Settings: Migrating last sync user data. Resource does not exist.
+2025-01-28 03:34:40.035 [info] Settings: Last sync data state does not exist.
+2025-01-28 03:34:40.129 [info] Settings: Migrating last sync user data. Resource does not exist.
+2025-01-28 03:34:40.129 [info] Settings: Last sync data state does not exist.
+2025-01-28 03:34:40.266 [info] Keybindings: Migrating last sync user data. Resource does not exist.
+2025-01-28 03:34:40.266 [info] Keybindings: Last sync data state does not exist.
+2025-01-28 03:34:40.281 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2025-01-28 03:34:40.281 [info] GlobalState: Last sync data state does not exist.
+2025-01-28 03:34:40.372 [info] Snippets: Migrating last sync user data. Resource does not exist.
+2025-01-28 03:34:40.372 [info] Snippets: Last sync data state does not exist.
+2025-01-28 03:34:40.457 [info] Tasks: Migrating last sync user data. Resource does not exist.
+2025-01-28 03:34:40.457 [info] Tasks: Last sync data state does not exist.
+2025-01-28 03:34:40.555 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2025-01-28 03:34:40.555 [info] GlobalState: Last sync data state does not exist.
+2025-01-28 03:34:40.729 [info] Extensions: Migrating last sync user data. Resource does not exist.
+2025-01-28 03:34:40.729 [info] Extensions: Last sync data state does not exist.
+2025-01-28 03:34:40.870 [info] Profiles: Migrating last sync user data. Resource does not exist.
+2025-01-28 03:34:40.870 [info] Profiles: Last sync data state does not exist.
+2025-01-28 03:34:40.963 [info] Profiles: Migrating last sync user data. Resource does not exist.
+2025-01-28 03:34:40.964 [info] Profiles: Last sync data state does not exist.
+2025-01-28 03:34:45.527 [info] Settings: Updated local settings
+2025-01-28 03:34:45.534 [info] Settings: Updated last synchronized settings
+2025-01-28 03:34:45.538 [info] Keybindings: Updated local keybindings
+2025-01-28 03:34:45.540 [info] Keybindings: Updated last synchronized keybindings
+2025-01-28 03:34:45.541 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-28 03:34:45.543 [info] Snippets: Updated last synchronized snippets
+2025-01-28 03:34:45.543 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-28 03:34:45.545 [info] Tasks: Updated last synchronized tasks
+2025-01-28 03:34:45.553 [info] GlobalState: Updated global state ["nps/lastSessionDate","nps/sessionCount","cpp.1.lastSessionDate","cpp.1.sessionCount","java.2.lastSessionDate","java.2.sessionCount","javascript.1.lastSessionDate","javascript.1.sessionCount","typescript.1.lastSessionDate","typescript.1.sessionCount","csharp.1.lastSessionDate","csharp.1.sessionCount","~remote.forwardedPortsContainer.hidden","workbench.telemetryOptOutShown","memento/gettingStartedService","workbench.statusbar.hidden","workbench.welcomePage.hiddenCategories","workbench.view.extensions.state.hidden","workbench.welcomePage.walkthroughMetadata","workbench.view.extension.test.state.hidden","ces/skipSurvey","workbench.view.extension.flutter.state.hidden","fileBasedRecommendations/promptedRecommendations","java.2.editedCount","java.2.editedDate","github-i-aland-i","expandSuggestionDocs","nps/isCandidate","nps/skipVersion","java.2.isCandidate","java.2.skipVersion","tabs-list-width-horizontal","terminal.integrated.showTerminalConfigPrompt","fileBasedRecommendations/promptedFileExtensions","workbench.panel.testResults.state.hidden","Comments.hidden","workbench.view.extension.tabnine.state.hidden","commandPalette.mru.cache","commandPalette.mru.counter","http.linkProtectionTrustedDomains","javascript.1.editedCount","javascript.1.editedDate","extensionTips/promptedExecutableTips","snippets.usageTimestamps","typescript.1.editedCount","typescript.1.editedDate","csharp.1.editedCount","csharp.1.editedDate","workbench.view.extension.SonarLint.state.hidden","workbench.view.extension.browser-preview.state.hidden","workbench.view.extension.cmake-view.state.hidden","workbench.view.extension.liveshare.state.hidden","memento/notebookGettingStarted2","memento/workbench.editor.keybindings","cpp.1.editedCount","cpp.1.editedDate","workbench.view.extension.references-view.state.hidden","javascript.1.isCandidate","javascript.1.skipVersion","typescript.1.isCandidate","typescript.1.skipVersion","workbench.view.extension.mongoDB.state.hidden","workbench.view.extension.package-explorer.state.hidden","workbench.panel.chatSidebar.hidden","workbench.view.extension.project-manager.state.hidden","workbench.view.extension.gitlens.state.hidden","workbench.view.extension.gitlensInspect.state.hidden","workbench.view.extension.mintdocs.state.hidden","workbench.view.extension.sourcery-explorer.state.hidden","workbench.view.extension.learn-vim-container.state.hidden","workbench.chat.hideMovedChatWelcomeView","workbench.view.extension.cspell-info-explorer.state.hidden","workbench.view.extension.cspellPanel.state.hidden","workbench.view.extension.dockerView.state.hidden","workbench.view.remote.state.hidden","workbench.explorer.views.state.hidden","workbench.scm.views.state.hidden","workbench.activity.pinnedViewlets2","workbench.panel.pinnedPanels","workbench.view.debug.state.hidden","colorThemeData","workbench.auxiliarybar.pinnedPanels"]
+2025-01-28 03:34:45.553 [info] GlobalState: Updated local ui state
+2025-01-28 03:34:45.554 [info] GlobalState: Updated last synchronized ui state
+2025-01-28 03:34:45.579 [info] Extensions: Disabled extension ms-vscode.js-debug
+2025-01-28 03:34:45.829 [info] Extensions: Migrating last sync user data. Resource does not exist.
+2025-01-28 03:34:45.829 [info] Extensions: Last sync data state does not exist.
+2025-01-28 03:35:48.740 [info] Extensions: Installed extension. xabikos.javascriptsnippets 1.8.0
+2025-01-28 03:35:48.740 [info] Extensions: Installed extension. ecmel.vscode-html-css 2.0.13
+2025-01-28 03:35:48.740 [info] Extensions: Installed extension. leizongmin.node-module-intellisense 1.5.0
+2025-01-28 03:35:48.740 [info] Extensions: Installed extension. chakrounanas.turbo-console-log 2.10.8
+2025-01-28 03:35:48.741 [info] Extensions: Installed extension. codezombiech.gitignore 0.9.0
+2025-01-28 03:35:48.741 [info] Extensions: Installed extension. aaron-bond.better-comments 3.0.2
+2025-01-28 03:35:48.741 [info] Extensions: Installed extension. dart-code.flutter 3.102.0
+2025-01-28 03:35:48.741 [info] Extensions: Installed extension. github.github-vscode-theme 6.3.5
+2025-01-28 03:35:48.741 [info] Extensions: Installed extension. christian-kohler.path-intellisense 2.10.0
+2025-01-28 03:35:48.741 [info] Extensions: Installed extension. ms-vscode.live-server 0.4.15
+2025-01-28 03:35:48.741 [info] Extensions: Installed extension. mgmcdermott.vscode-language-babel 0.0.40
+2025-01-28 03:35:48.741 [info] Extensions: Installed extension. dracula-theme.theme-dracula 2.25.1
+2025-01-28 03:35:48.741 [info] Extensions: Installed extension. dbaeumer.vscode-eslint 3.0.10
+2025-01-28 03:35:48.741 [info] Extensions: Installed extension. vscodevim.vim 1.29.0
+2025-01-28 03:35:48.742 [info] Extensions: Installed extension. usernamehw.errorlens 3.22.0
+2025-01-28 03:35:48.742 [info] Extensions: Installed extension. christian-kohler.npm-intellisense 1.4.5
+2025-01-28 03:35:48.742 [info] Extensions: Installed extension. steoates.autoimport 1.5.4
+2025-01-28 03:35:48.742 [info] Extensions: Installed extension. pkief.material-icon-theme 5.19.0
+2025-01-28 03:35:48.742 [info] Extensions: Installed extension. ms-azuretools.vscode-docker 1.29.4
+2025-01-28 03:35:48.742 [info] Extensions: Installed extension. donjayamanne.githistory 0.6.20
+2025-01-28 03:35:48.742 [info] Extensions: Installed extension. formulahendry.code-runner 0.12.2
+2025-01-28 03:35:48.742 [info] Extensions: Installed extension. bradlc.vscode-tailwindcss 0.14.1
+2025-01-28 03:35:48.742 [info] Extensions: Installed extension. humao.rest-client 0.25.1
+2025-01-28 03:35:48.742 [info] Extensions: Installed extension. esbenp.prettier-vscode 11.0.0
+2025-01-28 03:35:48.742 [info] Extensions: Installed extension. ms-dotnettools.vscode-dotnet-runtime 2.2.5
+2025-01-28 03:35:48.742 [info] Extensions: Installed extension. visualstudioexptteam.intellicode-api-usage-examples 0.2.9
+2025-01-28 03:35:48.742 [info] Extensions: Installed extension. oderwat.indent-rainbow 8.3.1
+2025-01-28 03:35:48.742 [info] Extensions: Installed extension. alexcvzz.vscode-sqlite 0.14.1
+2025-01-28 03:35:48.742 [info] Extensions: Installed extension. ms-python.debugpy 2024.14.0
+2025-01-28 03:35:48.743 [info] Extensions: Installed extension. mongodb.mongodb-vscode 1.11.0
+2025-01-28 03:35:48.743 [info] Extensions: Installed extension. dsznajder.es7-react-js-snippets 4.4.3
+2025-01-28 03:35:48.743 [info] Extensions: Installed extension. ms-python.python 2024.22.2
+2025-01-28 03:35:48.743 [info] Extensions: Installed extension. wix.vscode-import-cost 3.3.0
+2025-01-28 03:35:48.743 [info] Extensions: Installed extension. dart-code.dart-code 3.102.0
+2025-01-28 03:35:48.743 [info] Extensions: Installed extension. svelte.svelte-vscode 109.5.2
+2025-01-28 03:35:48.743 [info] Extensions: Installed extension. ms-python.vscode-pylance 2024.12.1
+2025-01-28 03:35:48.743 [info] Extensions: Installed extension. ms-dotnettools.csdevkit 1.15.34
+2025-01-28 03:35:48.743 [info] Extensions: Installed extension. ms-dotnettools.csharp 2.61.28
+2025-01-28 03:35:48.753 [info] Extensions: Updated last synchronized extensions.
+2025-01-28 03:35:48.754 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-28 03:35:48.757 [info] Profiles: Updated last synchronized profiles.
+2025-01-28 03:35:48.757 [info] Sync done. Took 69987ms
+2025-01-28 03:35:48.937 [info] Auto Sync: Triggered by Interval
+2025-01-28 03:35:48.937 [info] Sync started.
+2025-01-28 03:35:49.664 [info] Settings: Updated remote settings
+2025-01-28 03:35:49.667 [info] Settings: Updated last synchronized settings
+2025-01-28 03:35:49.669 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-28 03:35:49.671 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-28 03:35:49.672 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-28 03:35:50.279 [info] GlobalState: Updated remote ui state. Updated: memento/gettingStartedService. Removed: nps/lastSessionDate,nps/sessionCount,cpp.1.lastSessionDate,cpp.1.sessionCount,java.2.lastSessionDate,java.2.sessionCount,javascript.1.lastSessionDate,javascript.1.sessionCount,typescript.1.lastSessionDate,typescript.1.sessionCount,csharp.1.lastSessionDate,csharp.1.sessionCount,~remote.forwardedPortsContainer.hidden,workbench.telemetryOptOutShown,workbench.statusbar.hidden,workbench.view.extensions.state.hidden,workbench.welcomePage.walkthroughMetadata,workbench.view.extension.test.state.hidden,ces/skipSurvey,workbench.view.extension.flutter.state.hidden,fileBasedRecommendations/promptedRecommendations,java.2.editedCount,java.2.editedDate,github-i-aland-i,expandSuggestionDocs,nps/isCandidate,nps/skipVersion,java.2.isCandidate,java.2.skipVersion,tabs-list-width-horizontal,terminal.integrated.showTerminalConfigPrompt,fileBasedRecommendations/promptedFileExtensions,workbench.panel.testResults.state.hidden,Comments.hidden,workbench.view.extension.tabnine.state.hidden,commandPalette.mru.cache,commandPalette.mru.counter,http.linkProtectionTrustedDomains,javascript.1.editedCount,javascript.1.editedDate,extensionTips/promptedExecutableTips,snippets.usageTimestamps,typescript.1.editedCount,typescript.1.editedDate,csharp.1.editedCount,csharp.1.editedDate,workbench.view.extension.SonarLint.state.hidden,workbench.view.extension.browser-preview.state.hidden,workbench.view.extension.cmake-view.state.hidden,workbench.view.extension.liveshare.state.hidden,memento/notebookGettingStarted2,memento/workbench.editor.keybindings,cpp.1.editedCount,cpp.1.editedDate,workbench.view.extension.references-view.state.hidden,javascript.1.isCandidate,javascript.1.skipVersion,typescript.1.isCandidate,typescript.1.skipVersion,workbench.view.extension.mongoDB.state.hidden,workbench.view.extension.package-explorer.state.hidden,workbench.panel.chatSidebar.hidden,workbench.view.extension.project-manager.state.hidden,workbench.view.extension.gitlens.state.hidden,workbench.view.extension.gitlensInspect.state.hidden,workbench.view.extension.mintdocs.state.hidden,workbench.view.extension.sourcery-explorer.state.hidden,workbench.view.extension.learn-vim-container.state.hidden,workbench.chat.hideMovedChatWelcomeView,workbench.view.extension.cspell-info-explorer.state.hidden,workbench.view.extension.cspellPanel.state.hidden,workbench.view.extension.dockerView.state.hidden,workbench.view.remote.state.hidden.
+2025-01-28 03:35:50.281 [info] GlobalState: Updated last synchronized ui state
+2025-01-28 03:35:50.311 [info] Extensions: No changes found during synchronizing extensions.
+2025-01-28 03:35:50.316 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-28 03:35:50.317 [info] Sync done. Took 1381ms
+2025-01-28 03:35:51.921 [info] Auto Sync: Triggered by Activity
+2025-01-28 03:35:51.921 [info] Sync started.
+2025-01-28 03:35:52.031 [info] Settings: No changes found during synchronizing settings.
+2025-01-28 03:35:52.033 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-28 03:35:52.034 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-28 03:35:52.035 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-28 03:35:52.036 [info] GlobalState: No changes found during synchronizing ui state.
+2025-01-28 03:35:52.062 [info] Extensions: No changes found during synchronizing extensions.
+2025-01-28 03:35:52.062 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-28 03:35:52.063 [info] Sync done. Took 143ms
+2025-01-28 03:36:17.067 [info] Auto Sync: Triggered by Activity
+2025-01-28 03:36:17.068 [info] Sync started.
+2025-01-28 03:36:17.169 [info] Settings: No changes found during synchronizing settings.
+2025-01-28 03:36:17.171 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-28 03:36:17.172 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-28 03:36:17.173 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-28 03:36:17.175 [info] GlobalState: No changes found during synchronizing ui state.
+2025-01-28 03:36:17.216 [info] Extensions: No changes found during synchronizing extensions.
+2025-01-28 03:36:17.216 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-28 03:36:17.217 [info] Sync done. Took 151ms
+2025-01-28 03:40:05.693 [info] Auto Sync: Triggered by Activity
+2025-01-28 03:40:05.694 [info] Sync started.
+2025-01-28 03:40:07.529 [info] Settings: No changes found during synchronizing settings.
+2025-01-28 03:40:07.531 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-28 03:40:07.532 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-28 03:40:07.533 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-28 03:40:08.010 [info] GlobalState: Updated remote ui state. Updated: memento/gettingStartedService.
+2025-01-28 03:40:08.013 [info] GlobalState: Updated last synchronized ui state
+2025-01-28 03:40:08.054 [info] Extensions: No changes found during synchronizing extensions.
+2025-01-28 03:40:08.055 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-28 03:40:08.056 [info] Sync done. Took 2365ms
+2025-01-28 03:40:09.062 [info] Auto Sync: Triggered by Activity
+2025-01-28 03:40:09.063 [info] Sync started.
+2025-01-28 03:40:09.170 [info] Settings: No changes found during synchronizing settings.
+2025-01-28 03:40:09.171 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-28 03:40:09.172 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-28 03:40:09.174 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-28 03:40:09.175 [info] GlobalState: No changes found during synchronizing ui state.
+2025-01-28 03:40:09.207 [info] Extensions: No changes found during synchronizing extensions.
+2025-01-28 03:40:09.208 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-28 03:40:09.208 [info] Sync done. Took 148ms

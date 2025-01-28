@@ -1,0 +1,441 @@
+2025-01-28 03:34:47.357 [info] Getting Manifest... dracula-theme.theme-dracula
+2025-01-28 03:34:47.358 [info] Getting Manifest... christian-kohler.npm-intellisense
+2025-01-28 03:34:47.358 [info] Getting Manifest... vscodevim.vim
+2025-01-28 03:34:47.358 [info] Getting Manifest... ecmel.vscode-html-css
+2025-01-28 03:34:47.358 [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2025-01-28 03:34:47.358 [info] Getting Manifest... christian-kohler.path-intellisense
+2025-01-28 03:34:47.358 [info] Getting Manifest... mgmcdermott.vscode-language-babel
+2025-01-28 03:34:47.358 [info] Getting Manifest... chakrounanas.turbo-console-log
+2025-01-28 03:34:47.358 [info] Getting Manifest... humao.rest-client
+2025-01-28 03:34:47.358 [info] Getting Manifest... wix.vscode-import-cost
+2025-01-28 03:34:47.358 [info] Getting Manifest... leizongmin.node-module-intellisense
+2025-01-28 03:34:47.358 [info] Getting Manifest... steoates.autoimport
+2025-01-28 03:34:47.358 [info] Getting Manifest... svelte.svelte-vscode
+2025-01-28 03:34:47.359 [info] Getting Manifest... ms-azuretools.vscode-docker
+2025-01-28 03:34:47.359 [info] Getting Manifest... codezombiech.gitignore
+2025-01-28 03:34:47.359 [info] Getting Manifest... usernamehw.errorlens
+2025-01-28 03:34:47.359 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2025-01-28 03:34:47.359 [info] Getting Manifest... mongodb.mongodb-vscode
+2025-01-28 03:34:47.359 [info] Getting Manifest... formulahendry.code-runner
+2025-01-28 03:34:47.359 [info] Getting Manifest... visualstudioexptteam.intellicode-api-usage-examples
+2025-01-28 03:34:47.359 [info] Getting Manifest... dsznajder.es7-react-js-snippets
+2025-01-28 03:34:47.359 [info] Getting Manifest... xabikos.javascriptsnippets
+2025-01-28 03:34:47.359 [info] Getting Manifest... donjayamanne.githistory
+2025-01-28 03:34:47.359 [info] Getting Manifest... github.github-vscode-theme
+2025-01-28 03:34:47.359 [info] Getting Manifest... aaron-bond.better-comments
+2025-01-28 03:34:47.359 [info] Getting Manifest... alexcvzz.vscode-sqlite
+2025-01-28 03:34:47.359 [info] Getting Manifest... esbenp.prettier-vscode
+2025-01-28 03:34:47.359 [info] Getting Manifest... oderwat.indent-rainbow
+2025-01-28 03:34:47.359 [info] Getting Manifest... pkief.material-icon-theme
+2025-01-28 03:34:47.359 [info] Getting Manifest... dbaeumer.vscode-eslint
+2025-01-28 03:34:47.360 [info] Getting Manifest... ms-vscode.live-server
+2025-01-28 03:34:47.360 [info] Getting Manifest... dart-code.flutter
+2025-01-28 03:34:47.360 [info] Getting Manifest... ms-python.vscode-pylance
+2025-01-28 03:34:47.360 [info] Getting Manifest... dart-code.dart-code
+2025-01-28 03:34:47.360 [info] Getting Manifest... ms-python.debugpy
+2025-01-28 03:34:47.360 [info] Getting Manifest... ms-dotnettools.csharp
+2025-01-28 03:34:47.360 [info] Getting Manifest... ms-dotnettools.csdevkit
+2025-01-28 03:34:47.360 [info] Getting Manifest... ms-python.python
+2025-01-28 03:34:48.427 [info] Installing extension: dracula-theme.theme-dracula {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.427 [info] Installing extension: leizongmin.node-module-intellisense {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.427 [info] Installing extension: usernamehw.errorlens {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.427 [info] Installing extension: vscodevim.vim {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.427 [info] Installing extension: github.github-vscode-theme {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.427 [info] Installing extension: visualstudioexptteam.intellicode-api-usage-examples {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.427 [info] Installing extension: bradlc.vscode-tailwindcss {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.427 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.427 [info] Installing extension: alexcvzz.vscode-sqlite {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.427 [info] Installing extension: dart-code.flutter {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.427 [info] Installing extension: ms-vscode.live-server {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.427 [info] Installing extension: dsznajder.es7-react-js-snippets {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.427 [info] Installing extension: christian-kohler.path-intellisense {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.427 [info] Installing extension: svelte.svelte-vscode {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.428 [info] Installing extension: ms-dotnettools.vscode-dotnet-runtime {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.428 [info] Installing extension: ms-azuretools.vscode-docker {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.428 [info] Installing extension: dart-code.dart-code {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.428 [info] Installing extension: humao.rest-client {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.428 [info] Installing extension: ms-dotnettools.csharp {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.428 [info] Installing extension: ecmel.vscode-html-css {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.428 [info] Installing extension: xabikos.javascriptsnippets {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.428 [info] Installing extension: chakrounanas.turbo-console-log {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.428 [info] Installing extension: pkief.material-icon-theme {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.428 [info] Installing extension: mongodb.mongodb-vscode {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.428 [info] Installing extension: dbaeumer.vscode-eslint {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.428 [info] Installing extension: esbenp.prettier-vscode {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.428 [info] Installing extension: steoates.autoimport {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.429 [info] Installing extension: mgmcdermott.vscode-language-babel {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.429 [info] Installing extension: christian-kohler.npm-intellisense {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.429 [info] Installing extension: oderwat.indent-rainbow {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.429 [info] Installing extension: wix.vscode-import-cost {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.429 [info] Installing extension: donjayamanne.githistory {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.429 [info] Installing extension: ms-dotnettools.csdevkit {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.429 [info] Installing extension: ms-python.python {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.429 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.429 [info] Installing extension: formulahendry.code-runner {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.429 [info] Installing extension: codezombiech.gitignore {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.429 [info] Installing extension: aaron-bond.better-comments {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-28 03:34:48.430 [info] Installing the extension without checking dependencies and pack dracula-theme.theme-dracula
+2025-01-28 03:34:48.430 [info] Installing the extension without checking dependencies and pack leizongmin.node-module-intellisense
+2025-01-28 03:34:48.430 [info] Installing the extension without checking dependencies and pack usernamehw.errorlens
+2025-01-28 03:34:48.430 [info] Installing the extension without checking dependencies and pack vscodevim.vim
+2025-01-28 03:34:48.430 [info] Installing the extension without checking dependencies and pack github.github-vscode-theme
+2025-01-28 03:34:48.430 [info] Installing the extension without checking dependencies and pack visualstudioexptteam.intellicode-api-usage-examples
+2025-01-28 03:34:48.430 [info] Installing the extension without checking dependencies and pack bradlc.vscode-tailwindcss
+2025-01-28 03:34:48.430 [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+2025-01-28 03:34:48.430 [info] Installing the extension without checking dependencies and pack alexcvzz.vscode-sqlite
+2025-01-28 03:34:48.430 [info] Installing the extension without checking dependencies and pack dart-code.flutter
+2025-01-28 03:34:48.430 [info] Installing the extension without checking dependencies and pack ms-vscode.live-server
+2025-01-28 03:34:48.430 [info] Installing the extension without checking dependencies and pack dsznajder.es7-react-js-snippets
+2025-01-28 03:34:48.430 [info] Installing the extension without checking dependencies and pack christian-kohler.path-intellisense
+2025-01-28 03:34:48.430 [info] Installing the extension without checking dependencies and pack svelte.svelte-vscode
+2025-01-28 03:34:48.430 [info] Installing the extension without checking dependencies and pack ms-dotnettools.vscode-dotnet-runtime
+2025-01-28 03:34:48.430 [info] Installing the extension without checking dependencies and pack ms-azuretools.vscode-docker
+2025-01-28 03:34:48.431 [info] Installing the extension without checking dependencies and pack dart-code.dart-code
+2025-01-28 03:34:48.431 [info] Installing the extension without checking dependencies and pack humao.rest-client
+2025-01-28 03:34:48.431 [info] Installing the extension without checking dependencies and pack ms-dotnettools.csharp
+2025-01-28 03:34:48.431 [info] Installing the extension without checking dependencies and pack ecmel.vscode-html-css
+2025-01-28 03:34:48.431 [info] Installing the extension without checking dependencies and pack xabikos.javascriptsnippets
+2025-01-28 03:34:48.431 [info] Installing the extension without checking dependencies and pack chakrounanas.turbo-console-log
+2025-01-28 03:34:48.431 [info] Installing the extension without checking dependencies and pack pkief.material-icon-theme
+2025-01-28 03:34:48.431 [info] Installing the extension without checking dependencies and pack mongodb.mongodb-vscode
+2025-01-28 03:34:48.431 [info] Installing the extension without checking dependencies and pack dbaeumer.vscode-eslint
+2025-01-28 03:34:48.431 [info] Installing the extension without checking dependencies and pack esbenp.prettier-vscode
+2025-01-28 03:34:48.431 [info] Installing the extension without checking dependencies and pack steoates.autoimport
+2025-01-28 03:34:48.431 [info] Installing the extension without checking dependencies and pack mgmcdermott.vscode-language-babel
+2025-01-28 03:34:48.431 [info] Installing the extension without checking dependencies and pack christian-kohler.npm-intellisense
+2025-01-28 03:34:48.431 [info] Installing the extension without checking dependencies and pack oderwat.indent-rainbow
+2025-01-28 03:34:48.431 [info] Installing the extension without checking dependencies and pack wix.vscode-import-cost
+2025-01-28 03:34:48.431 [info] Installing the extension without checking dependencies and pack donjayamanne.githistory
+2025-01-28 03:34:48.431 [info] Installing the extension without checking dependencies and pack ms-dotnettools.csdevkit
+2025-01-28 03:34:48.431 [info] Installing the extension without checking dependencies and pack ms-python.python
+2025-01-28 03:34:48.432 [info] Installing the extension without checking dependencies and pack ms-python.debugpy
+2025-01-28 03:34:48.432 [info] Installing the extension without checking dependencies and pack formulahendry.code-runner
+2025-01-28 03:34:48.432 [info] Installing the extension without checking dependencies and pack codezombiech.gitignore
+2025-01-28 03:34:48.432 [info] Installing the extension without checking dependencies and pack aaron-bond.better-comments
+2025-01-28 03:34:49.382 [info] Extension signature verification result for leizongmin.node-module-intellisense: UnknownError. Executed: true. Duration: 6ms.
+2025-01-28 03:34:49.389 [info] Extension signature verification result for xabikos.javascriptsnippets: UnknownError. Executed: true. Duration: 6ms.
+2025-01-28 03:34:49.390 [info] Extension signature verification result for ecmel.vscode-html-css: UnknownError. Executed: true. Duration: 4ms.
+2025-01-28 03:34:49.401 [info] Extracted extension to file:///home/arch/.vscode/extensions/xabikos.javascriptsnippets-1.8.0: xabikos.javascriptsnippets
+2025-01-28 03:34:49.404 [info] Extracted extension to file:///home/arch/.vscode/extensions/ecmel.vscode-html-css-2.0.13: ecmel.vscode-html-css
+2025-01-28 03:34:49.405 [info] Renamed to /home/arch/.vscode/extensions/xabikos.javascriptsnippets-1.8.0
+2025-01-28 03:34:49.407 [info] Extracted extension to file:///home/arch/.vscode/extensions/leizongmin.node-module-intellisense-1.5.0: leizongmin.node-module-intellisense
+2025-01-28 03:34:49.408 [info] Renamed to /home/arch/.vscode/extensions/ecmel.vscode-html-css-2.0.13
+2025-01-28 03:34:49.411 [info] Renamed to /home/arch/.vscode/extensions/leizongmin.node-module-intellisense-1.5.0
+2025-01-28 03:34:49.487 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-28 03:34:49.552 [info] Extension signature verification result for chakrounanas.turbo-console-log: UnknownError. Executed: true. Duration: 4ms.
+2025-01-28 03:34:49.558 [info] Extracted extension to file:///home/arch/.vscode/extensions/chakrounanas.turbo-console-log-2.10.8: chakrounanas.turbo-console-log
+2025-01-28 03:34:49.560 [info] Renamed to /home/arch/.vscode/extensions/chakrounanas.turbo-console-log-2.10.8
+2025-01-28 03:34:49.593 [info] Extension signature verification result for codezombiech.gitignore: UnknownError. Executed: true. Duration: 4ms.
+2025-01-28 03:34:49.599 [info] Extracted extension to file:///home/arch/.vscode/extensions/codezombiech.gitignore-0.9.0: codezombiech.gitignore
+2025-01-28 03:34:49.601 [info] Renamed to /home/arch/.vscode/extensions/codezombiech.gitignore-0.9.0
+2025-01-28 03:34:50.144 [info] Extension signature verification result for aaron-bond.better-comments: UnknownError. Executed: true. Duration: 5ms.
+2025-01-28 03:34:50.157 [info] Extracted extension to file:///home/arch/.vscode/extensions/aaron-bond.better-comments-3.0.2: aaron-bond.better-comments
+2025-01-28 03:34:50.160 [info] Renamed to /home/arch/.vscode/extensions/aaron-bond.better-comments-3.0.2
+2025-01-28 03:34:50.218 [info] Extension signature verification result for dart-code.flutter: UnknownError. Executed: true. Duration: 4ms.
+2025-01-28 03:34:50.223 [info] Extracted extension to file:///home/arch/.vscode/extensions/dart-code.flutter-3.102.0: dart-code.flutter
+2025-01-28 03:34:50.226 [info] Renamed to /home/arch/.vscode/extensions/dart-code.flutter-3.102.0
+2025-01-28 03:34:50.238 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-28 03:34:50.403 [info] Extension signature verification result for github.github-vscode-theme: UnknownError. Executed: true. Duration: 5ms.
+2025-01-28 03:34:50.414 [info] Extracted extension to file:///home/arch/.vscode/extensions/github.github-vscode-theme-6.3.5: github.github-vscode-theme
+2025-01-28 03:34:50.418 [info] Renamed to /home/arch/.vscode/extensions/github.github-vscode-theme-6.3.5
+2025-01-28 03:34:50.496 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-28 03:34:50.691 [info] Extension signature verification result for christian-kohler.path-intellisense: UnknownError. Executed: true. Duration: 5ms.
+2025-01-28 03:34:50.713 [info] Extracted extension to file:///home/arch/.vscode/extensions/christian-kohler.path-intellisense-2.10.0: christian-kohler.path-intellisense
+2025-01-28 03:34:50.717 [info] Renamed to /home/arch/.vscode/extensions/christian-kohler.path-intellisense-2.10.0
+2025-01-28 03:34:50.796 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-28 03:34:51.721 [info] Extension signature verification result for ms-vscode.live-server: UnknownError. Executed: true. Duration: 5ms.
+2025-01-28 03:34:51.742 [info] Extracted extension to file:///home/arch/.vscode/extensions/ms-vscode.live-server-0.4.15: ms-vscode.live-server
+2025-01-28 03:34:51.745 [info] Renamed to /home/arch/.vscode/extensions/ms-vscode.live-server-0.4.15
+2025-01-28 03:34:51.791 [info] Extension signature verification result for mgmcdermott.vscode-language-babel: UnknownError. Executed: true. Duration: 5ms.
+2025-01-28 03:34:51.806 [info] Extracted extension to file:///home/arch/.vscode/extensions/mgmcdermott.vscode-language-babel-0.0.40: mgmcdermott.vscode-language-babel
+2025-01-28 03:34:51.809 [info] Renamed to /home/arch/.vscode/extensions/mgmcdermott.vscode-language-babel-0.0.40
+2025-01-28 03:34:51.824 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-28 03:34:51.880 [info] Extension signature verification result for dracula-theme.theme-dracula: UnknownError. Executed: true. Duration: 5ms.
+2025-01-28 03:34:51.893 [info] Extension signature verification result for dbaeumer.vscode-eslint: UnknownError. Executed: true. Duration: 5ms.
+2025-01-28 03:34:51.897 [info] Extracted extension to file:///home/arch/.vscode/extensions/dracula-theme.theme-dracula-2.25.1: dracula-theme.theme-dracula
+2025-01-28 03:34:51.900 [info] Renamed to /home/arch/.vscode/extensions/dracula-theme.theme-dracula-2.25.1
+2025-01-28 03:34:51.909 [info] Extracted extension to file:///home/arch/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10: dbaeumer.vscode-eslint
+2025-01-28 03:34:51.912 [info] Renamed to /home/arch/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10
+2025-01-28 03:34:51.963 [info] Extension signature verification result for vscodevim.vim: UnknownError. Executed: true. Duration: 4ms.
+2025-01-28 03:34:51.985 [info] Extracted extension to file:///home/arch/.vscode/extensions/vscodevim.vim-1.29.0: vscodevim.vim
+2025-01-28 03:34:51.991 [info] Renamed to /home/arch/.vscode/extensions/vscodevim.vim-1.29.0
+2025-01-28 03:34:52.357 [info] Extension signature verification result for usernamehw.errorlens: UnknownError. Executed: true. Duration: 4ms.
+2025-01-28 03:34:52.365 [info] Extracted extension to file:///home/arch/.vscode/extensions/usernamehw.errorlens-3.22.0: usernamehw.errorlens
+2025-01-28 03:34:52.368 [info] Renamed to /home/arch/.vscode/extensions/usernamehw.errorlens-3.22.0
+2025-01-28 03:34:52.447 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-28 03:34:53.266 [info] Extension signature verification result for steoates.autoimport: UnknownError. Executed: true. Duration: 5ms.
+2025-01-28 03:34:53.284 [info] Extension signature verification result for christian-kohler.npm-intellisense: UnknownError. Executed: true. Duration: 6ms.
+2025-01-28 03:34:53.315 [info] Extracted extension to file:///home/arch/.vscode/extensions/christian-kohler.npm-intellisense-1.4.5: christian-kohler.npm-intellisense
+2025-01-28 03:34:53.318 [info] Renamed to /home/arch/.vscode/extensions/christian-kohler.npm-intellisense-1.4.5
+2025-01-28 03:34:53.396 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-28 03:34:53.665 [info] Extracted extension to file:///home/arch/.vscode/extensions/steoates.autoimport-1.5.4: steoates.autoimport
+2025-01-28 03:34:53.683 [info] Renamed to /home/arch/.vscode/extensions/steoates.autoimport-1.5.4
+2025-01-28 03:34:53.765 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-28 03:34:53.988 [info] Extension signature verification result for pkief.material-icon-theme: UnknownError. Executed: true. Duration: 5ms.
+2025-01-28 03:34:54.224 [info] Extracted extension to file:///home/arch/.vscode/extensions/pkief.material-icon-theme-5.19.0: pkief.material-icon-theme
+2025-01-28 03:34:54.244 [info] Renamed to /home/arch/.vscode/extensions/pkief.material-icon-theme-5.19.0
+2025-01-28 03:34:54.323 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-28 03:34:54.539 [info] Extension signature verification result for ms-azuretools.vscode-docker: UnknownError. Executed: true. Duration: 5ms.
+2025-01-28 03:34:54.581 [info] Extracted extension to file:///home/arch/.vscode/extensions/ms-azuretools.vscode-docker-1.29.4: ms-azuretools.vscode-docker
+2025-01-28 03:34:54.586 [info] Renamed to /home/arch/.vscode/extensions/ms-azuretools.vscode-docker-1.29.4
+2025-01-28 03:34:54.669 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-28 03:34:54.868 [info] Extension signature verification result for donjayamanne.githistory: UnknownError. Executed: true. Duration: 5ms.
+2025-01-28 03:34:54.894 [info] Extracted extension to file:///home/arch/.vscode/extensions/donjayamanne.githistory-0.6.20: donjayamanne.githistory
+2025-01-28 03:34:54.898 [info] Renamed to /home/arch/.vscode/extensions/donjayamanne.githistory-0.6.20
+2025-01-28 03:34:54.977 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-28 03:34:55.143 [info] Extension signature verification result for formulahendry.code-runner: UnknownError. Executed: true. Duration: 5ms.
+2025-01-28 03:34:55.184 [info] Extracted extension to file:///home/arch/.vscode/extensions/formulahendry.code-runner-0.12.2: formulahendry.code-runner
+2025-01-28 03:34:55.189 [info] Renamed to /home/arch/.vscode/extensions/formulahendry.code-runner-0.12.2
+2025-01-28 03:34:55.218 [info] Extension signature verification result for bradlc.vscode-tailwindcss: UnknownError. Executed: true. Duration: 5ms.
+2025-01-28 03:34:55.253 [info] Extracted extension to file:///home/arch/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.1: bradlc.vscode-tailwindcss
+2025-01-28 03:34:55.256 [info] Renamed to /home/arch/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.1
+2025-01-28 03:34:55.269 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-28 03:34:55.732 [info] Extension signature verification result for humao.rest-client: UnknownError. Executed: true. Duration: 5ms.
+2025-01-28 03:34:55.758 [info] Extracted extension to file:///home/arch/.vscode/extensions/humao.rest-client-0.25.1: humao.rest-client
+2025-01-28 03:34:55.761 [info] Renamed to /home/arch/.vscode/extensions/humao.rest-client-0.25.1
+2025-01-28 03:34:55.785 [info] Extension signature verification result for esbenp.prettier-vscode: UnknownError. Executed: true. Duration: 5ms.
+2025-01-28 03:34:55.836 [info] Extracted extension to file:///home/arch/.vscode/extensions/esbenp.prettier-vscode-11.0.0: esbenp.prettier-vscode
+2025-01-28 03:34:55.838 [info] Renamed to /home/arch/.vscode/extensions/esbenp.prettier-vscode-11.0.0
+2025-01-28 03:34:55.839 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-28 03:34:56.954 [info] Extension signature verification result for ms-dotnettools.vscode-dotnet-runtime: UnknownError. Executed: true. Duration: 4ms.
+2025-01-28 03:34:56.986 [info] Extension signature verification result for visualstudioexptteam.intellicode-api-usage-examples: UnknownError. Executed: true. Duration: 6ms.
+2025-01-28 03:34:56.990 [info] Extracted extension to file:///home/arch/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.5: ms-dotnettools.vscode-dotnet-runtime
+2025-01-28 03:34:56.993 [info] Renamed to /home/arch/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.5
+2025-01-28 03:34:57.051 [info] Extracted extension to file:///home/arch/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9: visualstudioexptteam.intellicode-api-usage-examples
+2025-01-28 03:34:57.059 [info] Renamed to /home/arch/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9
+2025-01-28 03:34:57.072 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-28 03:34:57.769 [info] Extension signature verification result for oderwat.indent-rainbow: UnknownError. Executed: true. Duration: 5ms.
+2025-01-28 03:34:58.035 [info] Extracted extension to file:///home/arch/.vscode/extensions/oderwat.indent-rainbow-8.3.1: oderwat.indent-rainbow
+2025-01-28 03:34:58.063 [info] Renamed to /home/arch/.vscode/extensions/oderwat.indent-rainbow-8.3.1
+2025-01-28 03:34:58.142 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-28 03:34:58.617 [info] Extension signature verification result for alexcvzz.vscode-sqlite: UnknownError. Executed: true. Duration: 11ms.
+2025-01-28 03:34:58.662 [info] Extracted extension to file:///home/arch/.vscode/extensions/alexcvzz.vscode-sqlite-0.14.1: alexcvzz.vscode-sqlite
+2025-01-28 03:34:58.665 [info] Renamed to /home/arch/.vscode/extensions/alexcvzz.vscode-sqlite-0.14.1
+2025-01-28 03:34:58.743 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-28 03:35:02.465 [info] Extension signature verification result for ms-python.debugpy: UnknownError. Executed: true. Duration: 10ms.
+2025-01-28 03:35:02.683 [info] Extracted extension to file:///home/arch/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64: ms-python.debugpy
+2025-01-28 03:35:02.691 [info] Renamed to /home/arch/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64
+2025-01-28 03:35:02.771 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-28 03:35:03.842 [info] Extension signature verification result for mongodb.mongodb-vscode: UnknownError. Executed: true. Duration: 4ms.
+2025-01-28 03:35:03.978 [info] Extracted extension to file:///home/arch/.vscode/extensions/mongodb.mongodb-vscode-1.11.0: mongodb.mongodb-vscode
+2025-01-28 03:35:03.983 [info] Renamed to /home/arch/.vscode/extensions/mongodb.mongodb-vscode-1.11.0
+2025-01-28 03:35:04.020 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-28 03:35:04.486 [info] Extension signature verification result for dsznajder.es7-react-js-snippets: UnknownError. Executed: true. Duration: 9ms.
+2025-01-28 03:35:04.587 [info] Extracted extension to file:///home/arch/.vscode/extensions/dsznajder.es7-react-js-snippets-4.4.3: dsznajder.es7-react-js-snippets
+2025-01-28 03:35:04.590 [info] Renamed to /home/arch/.vscode/extensions/dsznajder.es7-react-js-snippets-4.4.3
+2025-01-28 03:35:04.670 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-28 03:35:07.981 [info] Extension signature verification result for dart-code.dart-code: UnknownError. Executed: true. Duration: 6ms.
+2025-01-28 03:35:08.875 [info] Extension signature verification result for ms-python.python: UnknownError. Executed: true. Duration: 5ms.
+2025-01-28 03:35:09.588 [info] Extension signature verification result for wix.vscode-import-cost: UnknownError. Executed: true. Duration: 5ms.
+2025-01-28 03:35:09.799 [info] Extracted extension to file:///home/arch/.vscode/extensions/ms-python.python-2024.22.2-linux-x64: ms-python.python
+2025-01-28 03:35:09.846 [info] Renamed to /home/arch/.vscode/extensions/ms-python.python-2024.22.2-linux-x64
+2025-01-28 03:35:09.904 [info] Extracted extension to file:///home/arch/.vscode/extensions/wix.vscode-import-cost-3.3.0: wix.vscode-import-cost
+2025-01-28 03:35:09.906 [info] Renamed to /home/arch/.vscode/extensions/wix.vscode-import-cost-3.3.0
+2025-01-28 03:35:09.927 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-28 03:35:12.495 [info] Extracted extension to file:///home/arch/.vscode/extensions/dart-code.dart-code-3.102.0: dart-code.dart-code
+2025-01-28 03:35:12.809 [info] Renamed to /home/arch/.vscode/extensions/dart-code.dart-code-3.102.0
+2025-01-28 03:35:12.888 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-28 03:35:13.190 [info] Extension signature verification result for svelte.svelte-vscode: UnknownError. Executed: true. Duration: 13ms.
+2025-01-28 03:35:13.932 [info] Extracted extension to file:///home/arch/.vscode/extensions/svelte.svelte-vscode-109.5.2: svelte.svelte-vscode
+2025-01-28 03:35:13.987 [info] Renamed to /home/arch/.vscode/extensions/svelte.svelte-vscode-109.5.2
+2025-01-28 03:35:14.068 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-28 03:35:14.856 [info] Extension signature verification result for ms-python.vscode-pylance: UnknownError. Executed: true. Duration: 10ms.
+2025-01-28 03:35:16.481 [info] Extracted extension to file:///home/arch/.vscode/extensions/ms-python.vscode-pylance-2024.12.1: ms-python.vscode-pylance
+2025-01-28 03:35:16.645 [info] Renamed to /home/arch/.vscode/extensions/ms-python.vscode-pylance-2024.12.1
+2025-01-28 03:35:16.727 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-28 03:35:22.667 [info] Extension signature verification result for ms-dotnettools.csdevkit: UnknownError. Executed: true. Duration: 11ms.
+2025-01-28 03:35:23.586 [info] Extracted extension to file:///home/arch/.vscode/extensions/ms-dotnettools.csdevkit-1.15.34-linux-x64: ms-dotnettools.csdevkit
+2025-01-28 03:35:23.613 [info] Renamed to /home/arch/.vscode/extensions/ms-dotnettools.csdevkit-1.15.34-linux-x64
+2025-01-28 03:35:23.695 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-28 03:35:46.221 [info] Extension signature verification result for ms-dotnettools.csharp: UnknownError. Executed: true. Duration: 10ms.
+2025-01-28 03:35:48.605 [info] Extracted extension to file:///home/arch/.vscode/extensions/ms-dotnettools.csharp-2.61.28-linux-x64: ms-dotnettools.csharp
+2025-01-28 03:35:48.689 [info] Renamed to /home/arch/.vscode/extensions/ms-dotnettools.csharp-2.61.28-linux-x64
+2025-01-28 03:35:48.734 [info] Extension installed successfully: xabikos.javascriptsnippets vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.734 [info] Extension installed successfully: ecmel.vscode-html-css vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.734 [info] Extension installed successfully: leizongmin.node-module-intellisense vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.734 [info] Extension installed successfully: chakrounanas.turbo-console-log vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.734 [info] Extension installed successfully: codezombiech.gitignore vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.734 [info] Extension installed successfully: aaron-bond.better-comments vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.734 [info] Extension installed successfully: dart-code.flutter vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.735 [info] Extension installed successfully: github.github-vscode-theme vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.735 [info] Extension installed successfully: christian-kohler.path-intellisense vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.735 [info] Extension installed successfully: ms-vscode.live-server vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.735 [info] Extension installed successfully: mgmcdermott.vscode-language-babel vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.735 [info] Extension installed successfully: dracula-theme.theme-dracula vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.735 [info] Extension installed successfully: dbaeumer.vscode-eslint vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.735 [info] Extension installed successfully: vscodevim.vim vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.735 [info] Extension installed successfully: usernamehw.errorlens vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.735 [info] Extension installed successfully: christian-kohler.npm-intellisense vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.735 [info] Extension installed successfully: steoates.autoimport vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.735 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.735 [info] Extension installed successfully: ms-azuretools.vscode-docker vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.735 [info] Extension installed successfully: donjayamanne.githistory vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.736 [info] Extension installed successfully: formulahendry.code-runner vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.736 [info] Extension installed successfully: bradlc.vscode-tailwindcss vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.736 [info] Extension installed successfully: humao.rest-client vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.736 [info] Extension installed successfully: esbenp.prettier-vscode vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.736 [info] Extension installed successfully: ms-dotnettools.vscode-dotnet-runtime vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.736 [info] Extension installed successfully: visualstudioexptteam.intellicode-api-usage-examples vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.736 [info] Extension installed successfully: oderwat.indent-rainbow vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.736 [info] Extension installed successfully: alexcvzz.vscode-sqlite vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.736 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.736 [info] Extension installed successfully: mongodb.mongodb-vscode vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.736 [info] Extension installed successfully: dsznajder.es7-react-js-snippets vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.736 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.736 [info] Extension installed successfully: wix.vscode-import-cost vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.737 [info] Extension installed successfully: dart-code.dart-code vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.737 [info] Extension installed successfully: svelte.svelte-vscode vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.737 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.737 [info] Extension installed successfully: ms-dotnettools.csdevkit vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.737 [info] Extension installed successfully: ms-dotnettools.csharp vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-01-28 03:35:48.778 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arch/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)

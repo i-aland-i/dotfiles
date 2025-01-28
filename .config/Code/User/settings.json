@@ -1,0 +1,151 @@
+{
+  "editor.formatOnSave": true,
+  "editor.suggest.insertMode": "replace",
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "editor.linkedEditing": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "launch": {},
+  "[json]": {},
+  "editor.minimap.enabled": false,
+  "update.showReleaseNotes": false,
+  "zenMode.hideLineNumbers": false,
+  "editor.lineNumbers": "relative",
+  "window.titleBarStyle": "custom",
+
+  "vim.leader": "<Space>",
+  "vim.hlsearch": true,
+  "vim.normalModeKeyBindingsNonRecursive": [
+    // NAVIGATION
+    // switch b/w buffers
+    { "before": ["<S-h>"], "commands": [":bprevious"] },
+    { "before": ["<S-l>"], "commands": [":bnext"] },
+
+    // splits
+    { "before": ["leader", "v"], "commands": [":vsplit"] },
+    { "before": ["leader", "s"], "commands": [":split"] },
+
+    // panes
+    {
+      "before": ["leader", "h"],
+      "commands": ["workbench.action.focusLeftGroup"]
+    },
+    {
+      "before": ["leader", "j"],
+      "commands": ["workbench.action.focusBelowGroup"]
+    },
+    {
+      "before": ["leader", "k"],
+      "commands": ["workbench.action.focusAboveGroup"]
+    },
+    {
+      "before": ["leader", "l"],
+      "commands": ["workbench.action.focusRightGroup"]
+    },
+    // NICE TO HAVE
+    { "before": ["leader", "w"], "commands": [":w!"] },
+    { "before": ["leader", "q"], "commands": [":q!"] },
+    { "before": ["leader", "x"], "commands": [":x!"] },
+    {
+      "before": ["[", "d"],
+      "commands": ["editor.action.marker.prev"]
+    },
+    {
+      "before": ["]", "d"],
+      "commands": ["editor.action.marker.next"]
+    },
+    {
+      "before": ["<leader>", "c", "a"],
+      "commands": ["editor.action.quickFix"]
+    },
+    { "before": ["leader", "f"], "commands": ["workbench.action.quickOpen"] },
+    { "before": ["leader", "p"], "commands": ["editor.action.formatDocument"] },
+    {
+      "before": ["g", "h"],
+      "commands": ["editor.action.showDefinitionPreviewHover"]
+    }
+  ],
+  "vim.visualModeKeyBindings": [
+    // Stay in visual mode while indenting
+    { "before": ["<"], "commands": ["editor.action.outdentLines"] },
+    { "before": [">"], "commands": ["editor.action.indentLines"] },
+    // Move selected lines while staying in visual mode
+    { "before": ["J"], "commands": ["editor.action.moveLinesDownAction"] },
+    { "before": ["K"], "commands": ["editor.action.moveLinesUpAction"] },
+    // toggle comment selection
+    { "before": ["leader", "c"], "commands": ["editor.action.commentLine"] }
+  ],
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "go.toolsManagement.autoUpdate": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "redhat.telemetry.enabled": true,
+  "explorer.confirmDelete": false,
+  "C_Cpp.autocompleteAddParentheses": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.stickyScroll.enabled": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.startupEditor": "none",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorCustomizations": {},
+  "dash.fileNameToDocsetMap": {
+    "[dD]ocker*": ["docker"],
+    "Vagrantfile": ["vagrant"],
+    "gruntfile.js": ["grunt"],
+    "gulpfile.js": ["gulp"],
+    "*.ino": ["arduino"]
+  },
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off"
+  },
+  "cmake.pinnedCommands": [
+    "workbench.action.tasks.configureTaskRunner",
+    "workbench.action.tasks.runTask"
+  ],
+  "dart.sdkPaths": ["/opt/flutter/bin/cache/dart-sdk"],
+  "flutter.sdkPaths": ["/opt/flutter/"],
+  "settingsSync.ignoredSettings": [],
+  "dart.openDevTools": "flutter",
+  "cmake.options.advanced": {
+    "build": {
+      "statusBarVisibility": "inherit",
+      "inheritDefault": "visible"
+    },
+    "launch": {
+      "statusBarVisibility": "inherit",
+      "inheritDefault": "visible"
+    },
+    "debug": {
+      "statusBarVisibility": "inherit",
+      "inheritDefault": "visible"
+    }
+  },
+  "cmake.showOptionsMovedNotification": false,
+  "workbench.sideBar.location": "right",
+  "workbench.statusBar.visible": false,
+  "svelte.enable-ts-plugin": true,
+  "svelte.plugin.svelte.runesLegacyModeCodeLens.enable": false,
+  "editor.codeLens": false,
+  "workbench.colorTheme": "GitHub Dark Default",
+  "[csharp]": {
+    "editor.defaultFormatter": "ms-dotnettools.csharp"
+  }
+}

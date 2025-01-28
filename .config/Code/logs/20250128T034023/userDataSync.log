@@ -1,0 +1,39 @@
+2025-01-28 03:40:24.414 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2025-01-28 03:40:24.414 [info] Auto Sync is enabled.
+2025-01-28 03:40:24.414 [info] Auto Sync: Suspended until auth token is available.
+2025-01-28 03:40:24.921 [info] Auto Sync: Triggered by Interval
+2025-01-28 03:40:24.922 [info] Sync started.
+2025-01-28 03:40:25.463 [error] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: Unable to sync settings as there are errors/warning in settings file.
+    at La.Vb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:95232)
+    at La.qb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:91118)
+    at async La.eb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:38169)
+2025-01-28 03:40:25.463 [error] settings: Unable to sync settings as there are errors/warning in settings file.
+2025-01-28 03:40:25.485 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-28 03:40:25.489 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-28 03:40:25.491 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-28 03:40:26.122 [info] GlobalState: Updated remote ui state. Added: commandPalette.mru.cache,commandPalette.mru.counter,cpp.1.lastSessionDate,cpp.1.sessionCount,csharp.1.lastSessionDate,csharp.1.sessionCount.
+2025-01-28 03:40:26.126 [info] GlobalState: Updated last synchronized ui state
+2025-01-28 03:40:26.161 [info] Extensions: No changes found during synchronizing extensions.
+2025-01-28 03:40:26.162 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-28 03:40:26.163 [info] Sync done. Took 1243ms
+2025-01-28 03:40:40.406 [info] Auto Sync: Triggered by Activity
+2025-01-28 03:40:40.407 [info] Sync started.
+2025-01-28 03:40:40.998 [info] Settings: Updated remote settings
+2025-01-28 03:40:41.002 [info] Settings: Updated last synchronized settings
+2025-01-28 03:40:41.003 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-28 03:40:41.004 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-28 03:40:41.005 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-28 03:40:41.008 [info] GlobalState: No changes found during synchronizing ui state.
+2025-01-28 03:40:41.046 [info] Extensions: No changes found during synchronizing extensions.
+2025-01-28 03:40:41.047 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-28 03:40:41.047 [info] Sync done. Took 643ms
+2025-01-28 03:40:54.150 [info] Auto Sync: Triggered by Activity
+2025-01-28 03:40:54.150 [info] Sync started.
+2025-01-28 03:40:54.263 [info] Settings: No changes found during synchronizing settings.
+2025-01-28 03:40:54.265 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-28 03:40:54.267 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-28 03:40:54.268 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-28 03:40:54.270 [info] GlobalState: No changes found during synchronizing ui state.
+2025-01-28 03:40:54.307 [info] Extensions: No changes found during synchronizing extensions.
+2025-01-28 03:40:54.308 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-28 03:40:54.309 [info] Sync done. Took 161ms

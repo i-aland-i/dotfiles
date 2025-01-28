@@ -1,0 +1,30 @@
+# Font matching Waybar
+font=JetBrains Mono 10
+
+# Color scheme (Gruvbox Dark)
+background-color=#282828
+text-color=#ebdbb2
+border-color=#D2B48C
+progress-color=over #8ec07c
+
+# Layout
+border-radius=0
+padding=8
+margin=8
+width=300
+anchor=top-right
+
+# Timeouts
+default-timeout=10000
+ignore-timeout=1
+
+# Urgency levels
+[urgency=high]
+background-color=#D08770
+text-color=#ffffff
+border-color=#D08770
+
+[urgency=critical]
+background-color=#cc241d
+text-color=#ffffff
+border-color=#cc241d

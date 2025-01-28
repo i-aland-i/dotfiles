@@ -1,0 +1,67 @@
+2025-01-28 03:35:50.152 [info] 2025-01-28T00:35:50.119Z extension INFO  Activating extension... [
+  {
+    id: 'mongodb.mongodb-vscode',
+    version: '1.11.0',
+    mode: 'Production',
+    kind: 'UI',
+    extensionPath: '/home/arch/.vscode/extensions/mongodb.mongodb-vscode-1.11.0',
+    logPath: '/home/arch/.config/Code/logs/20250128T030854/window1/exthost/mongodb.mongodb-vscode',
+    workspaceStoragePath: undefined,
+    globalStoragePath: '/home/arch/.config/Code/User/globalStorage/mongodb.mongodb-vscode',
+    defaultConnectionSavingLocation: 'Global',
+    buildInfo: {
+      nodeVersion: 'v20.18.1',
+      runtimePlatform: 'linux',
+      runtimeArch: 'x64'
+    }
+  }
+]
+
+2025-01-28 03:35:50.152 [info] 2025-01-28T00:35:50.120Z language server controller INFO  Creating MongoDB Language Server... [
+  {
+    extensionPath: '/home/arch/.vscode/extensions/mongodb.mongodb-vscode-1.11.0',
+    languageServer: {
+      id: 'mongodbLanguageServer',
+      name: 'MongoDB Language Server',
+      path: '/home/arch/.vscode/extensions/mongodb.mongodb-vscode-1.11.0/dist/languageServer.js',
+      documentSelector: '[{"pattern":"**/*.mongodb.js"},{"pattern":"**/*.mongodb"}]'
+    }
+  }
+]
+
+2025-01-28 03:35:50.152 [info] 2025-01-28T00:35:50.126Z telemetry INFO  Segment analytics activated [ { anonymousId: '363933c8-06f1-44f9-a380-158a7769d215' } ]
+
+2025-01-28 03:35:50.152 [info] 2025-01-28T00:35:50.127Z participant INFO  Chat participant created [ { participantId: 'mongodb.participant' } ]
+
+2025-01-28 03:35:50.152 [info] 2025-01-28T00:35:50.127Z language server controller INFO  Starting the language server... []
+
+2025-01-28 03:35:50.426 [info] 2025-01-28T00:35:50.424Z webview controller INFO  Opening webview... []
+
+2025-01-28 03:35:50.427 [info] 2025-01-28T00:35:50.427Z language server controller INFO  MongoDBService initialized. Sending default settings... {"extensionPath":"/home/arch/.vscode/extensions/mongodb.mongodb-vscode-1.11.0","connectionId":null,"hasConnectionString":false,"hasConnectionOptions":false} []
+
+2025-01-28 03:36:02.604 [info] 2025-01-28T00:36:02.604Z telemetry INFO  Telemetry sent [
+  {
+    anonymousId: '363933c8-06f1-44f9-a380-158a7769d215',
+    event: 'Command Run',
+    properties: { command: 'mdb.openOverviewPage', extension_version: '1.11.0' }
+  }
+]
+
+2025-01-28 03:40:22.954 [info] 2025-01-28T00:40:22.949Z extension INFO  Deactivating extension... []
+
+2025-01-28 03:40:22.954 [info] 2025-01-28T00:40:22.949Z connection controller INFO  Disconnect called, currently connected to [ null ]
+
+2025-01-28 03:40:22.954 [info] 2025-01-28T00:40:22.949Z language server controller INFO  Changing MongoDBService active connection... [ { connectionId: null } ]
+
+2025-01-28 03:40:22.954 [info] 2025-01-28T00:40:22.949Z connection controller ERROR Unable to disconnect: no active connection []
+
+2025-01-28 03:40:22.954 [info] 2025-01-28T00:40:22.951Z connection controller INFO  Disconnect called, currently connected to [ null ]
+
+2025-01-28 03:40:22.954 [info] 2025-01-28T00:40:22.952Z language server controller INFO  Changing MongoDBService active connection... [ { connectionId: null } ]
+
+2025-01-28 03:40:22.954 [info] 2025-01-28T00:40:22.952Z connection controller ERROR Unable to disconnect: no active connection []
+
+2025-01-28 03:40:22.954 [info] 2025-01-28T00:40:22.954Z language server controller INFO  Deactivating the language server... []
+
+2025-01-28 03:40:22.954 [info] 2025-01-28T00:40:22.954Z language server controller INFO  Deactivating the language server... []
+

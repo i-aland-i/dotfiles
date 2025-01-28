@@ -1,0 +1,25 @@
+[user]
+    name = Aland
+    email = alandaram7@gmail.com
+
+[alias]
+    st = status
+    co = checkout
+    ci = commit
+    br = branch
+    lg = log --oneline --graph --decorate --all
+    unstage = reset HEAD
+    amend = commit --amend
+    alias = config --get-regexp alias
+    last = log -1 HEAD
+    p = push
+    pl = pull
+    fetch-all = fetch --all
+    undo = reset HEAD~1
+    rebase-i = rebase -i
+    clean-all = clean -fdx
+    tags = tag
+    update = pull origin main
+    diff-all = diff --color-words
+    rebase-all = pull --rebase
+    s = status -s
